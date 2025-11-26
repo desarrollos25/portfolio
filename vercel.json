@@ -1,5 +1,6 @@
 {
-  "installCommand": "npm ci",
-  "buildCommand": "npm run build",
-  "outputDirectory": "./"
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "."
 }
+Add: vercel.json para build estático (sin npm)
