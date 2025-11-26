@@ -1,5 +1,5 @@
 {
   "installCommand": "npm ci",
-  "buildCommand": "npm run build",  // Si tienes un script de build; si no, déjalo vacío
-  "outputDirectory": "./"  // Para sitios estáticos
+  "buildCommand": "npm run build",
+  "outputDirectory": "./"
 }
